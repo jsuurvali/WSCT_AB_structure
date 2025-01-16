@@ -36,7 +36,7 @@
 
 
 
-## Software versions used by the scripts
+## Software versions used by the study
   - [adegenet](https://adegenet.r-forge.r-project.org/): 2.1.10
   - [adegraphics](https://cran.r-project.org/web/packages/adegraphics/vignettes/adegraphics.html): 1.0-21
   - [bcftools](https://mafft.cbrc.jp/): 1.13

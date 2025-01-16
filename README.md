@@ -1,7 +1,5 @@
 # Fine-scale population structure in Alberta's westslope cutthroat trout (_Oncorhynchus lewisi_)
-**This repository covers phylogenetic and regression analysis of 152 ABCE proteins from 76 plant species.**
-
-The full study was submitted to a peer-reviewed journal on Jan 15, 2025.
+**The full study was submitted to a peer-reviewed journal on Jan 15, 2025.**
 
 
 ## Analysis pipeline

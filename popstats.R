@@ -2,8 +2,6 @@ library(dartR)
 library(strataG)
 library(tidyverse)
 
-setwd("E:/Dropbox/Alberta_Trout/trout/GATK_HF.DP7.GQ30.AB_filt.AEPonly.snps.indels/reduced2")
-
 # read in data
 dat.annot <- read.table("annot.tsv", header = TRUE, sep = "\t")
 dat <- gl.read.vcf("wsct.filtered.all.vcf.gz")

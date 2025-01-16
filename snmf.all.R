@@ -85,7 +85,7 @@ Kplot <- function(dataset, samples, K_value, col_vector){
 }
 
 # in the next step, the defined colors on each row are exchangable. You need one color for each ancestry present
-# the order of how ggplot assigns the colors varies by run, which is why I have a defined different order for each
+# the order of how ggplot assigns the colors varies by snmf run, which is why I have a defined different order for each
 
 
 # define colors for the "all" plots

@@ -18,5 +18,5 @@ bcftools query -l wsct.snps.var.mac3.miss25.vcf.gz > keeplist.miss25
 
 rm tmp*
 
-# sample30.txt contaains sample name and population for selected populations with n >= 30
+# sample30.txt contains sample name and population for selected populations with n >= 30
 cut -f1 sample30.txt | bcftools view -S - wsct.snps.var.mac3.miss25.vcf.gz -Oz -o forfilter.vcf.gz
